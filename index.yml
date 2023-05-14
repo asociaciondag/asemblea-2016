@@ -1,0 +1,71 @@
+layout: layout.njk
+titulo: Asemblea xeral
+
+subtitulo: |
+  Sábado 5 de marzo | Vigo 
+
+programa:
+  - hora: 11:00h
+    info: Charla na DAG sobre **estratexia de marca** a cargo de Desoños
+    
+  - hora: 12:00h
+    info: Descanso - café
+    
+  - hora: 12:30h
+    info: |
+      Presentación de *GazeHits.*<br>
+      App desenvolvida en Galicia para predicir a **atención visual**
+    
+  - hora: 14:00h
+    info: Xantar
+    
+  - hora: 16:30h
+    info: Asemblea xeral da DAG
+
+info: |
+  A charla na DAG e a presentación de GazeHits son de entrada libre.
+  A asemblea é só para socios.
+
+  Prégase confirmación de asistencia en: [info@asociaciondag.org](mailto:info@asociaciondag.org)
+  
+  As actividades celebraranse no estudio DESOÑOS. Rúa Urzáiz 8, 1º, 36201, Vigo.
+ 
+social_destacados:
+  - https://www.flickr.com/photos/asociaciondag/albums/72157663259420643
+  
+social:
+  - https://twitter.com/_desonhos/status/704309211136659456
+  - https://twitter.com/costa_estudio/status/705007308787597313
+  - https://twitter.com/irepolvera/status/705762284115779584
+  - https://twitter.com/desescribir/status/705758571829583872
+  - https://twitter.com/_desonhos/status/705757174962778112
+  - https://twitter.com/ElLagrimal/status/706096375629549568
+  - https://twitter.com/irepolvera/status/706054254872674304
+  - https://twitter.com/domohomo_design/status/706103516629180416
+  - https://twitter.com/marcosdopico/status/706060437390041088
+  - https://twitter.com/SigarisEstudio/status/706182076249346048
+  - https://twitter.com/raquelboo/status/706120797803442176
+  - https://twitter.com/croamagazine/status/706062702783938561
+  - https://twitter.com/TelmoYoung/status/706112134082596864
+  - https://twitter.com/misteroom/status/706060036397768704
+  - https://twitter.com/asociaciondag/status/706062824464900096
+  - https://twitter.com/_desonhos/status/706069551310618624
+  - https://twitter.com/_desonhos/status/706070667276521473
+  - https://twitter.com/marcosdopico/status/706071628845809664
+  - https://twitter.com/_desonhos/status/706071749109161984
+  - https://twitter.com/SimonWindsock/status/706075998576631808
+  - https://twitter.com/irepolvera/status/706071572243750912
+  - https://twitter.com/misteroom/status/706071838112260096
+  - https://twitter.com/claramalde/status/706091580860583936
+  - https://twitter.com/artwork_atwork/status/706084043717267456
+  - https://twitter.com/_desonhos/status/706081877547945984
+  - https://twitter.com/misteroom/status/706086366422175746
+  - https://twitter.com/asociaciondag/status/706087035036155904
+  - https://twitter.com/_desonhos/status/706089549756305408
+  - https://twitter.com/asociaciondag/status/706090341733109760
+  - https://twitter.com/manuel2R/status/706101908830822401
+  - https://twitter.com/iriacaballero/status/706247802276470789
+  - https://twitter.com/irepolvera/status/706226440673628161
+  - https://twitter.com/BarroDesign/status/706165800495874048
+  - https://twitter.com/ekinociosc/status/706074548840632320
+  - https://twitter.com/_desonhos/status/706893146941210626
